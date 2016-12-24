@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1478582688 source:c:\users\omarm\dropbox\codeblocks proyects\ejercicio 32\src\numero.cpp
+	"Numero.h"
+
+1478582204 c:\users\omarm\dropbox\codeblocks proyects\ejercicio 32\include\numero.h
+
+1478582628 source:c:\users\omarm\dropbox\codeblocks proyects\ejercicio 32\main.cpp
+	<iostream>
+	"Numero.h"
+
